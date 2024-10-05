@@ -106,6 +106,7 @@ header h1 {
   margin-top: 20px;
   display: flex;
   flex-wrap: wrap;
+  flex-direction: column;
 }
 
 .items li {
